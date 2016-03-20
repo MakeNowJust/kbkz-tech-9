@@ -1,0 +1,32 @@
+.code, .info {
+  height: 340px;
+  padding-bottom: 1em;
+}
+
+.code > * {
+  width: 100%;
+  height: 100%;
+}
+
+.code .parsed .current {
+  color: #fa0000;
+}
+
+.code .parsed .selected {
+  color: #0000fa;
+}
+
+.info > .machine {
+  height: 40px;
+}
+
+.info > .env {
+  height: 300px;
+  overflow-y: scroll;
+}
+
+.info > .env > * {
+  width: 100%;
+  margin-bottom: 0.5em;
+  overflow: hidden;
+}
