@@ -46,6 +46,14 @@ class: center, middle, inverse
 # 本編
 
 ---
+
+## 目次
+
+1. Grassとは
+2. 構文とかの説明
+3. なんかデモ
+
+---
 class: center, middle, inverse
 
 ## Grassとは？
@@ -442,6 +450,7 @@ class: center, middle, inverse
 - 関数型言語！
 - ラムダ計算の知識が役に立つ
 - 意味論がちゃんと存在するので実装しがいがある
+- ↑他の言語の仕様を読むのも楽になる（かも）
 - ~~Brainf\*ckより書くのが楽でLazy Kより速度が出やすい~~
 
 ---
