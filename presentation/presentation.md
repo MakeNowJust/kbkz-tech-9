@@ -36,6 +36,11 @@ class: center, middle, inverse
 ]
 
 ---
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr"><a href="https://twitter.com/make_now_just">@make_now_just</a> Esolang全般は、多分みんなBrainfuckの名前ぐらいは聞いたことがあるのでどういうものか程度はわかっているのではないのかなぁ。</p>&mdash; Ryou Ezoe (@EzoeRyou) <a href="https://twitter.com/EzoeRyou/status/704216218916392960">2016年2月29日</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
 class: center, middle, inverse
 
 # 本編
